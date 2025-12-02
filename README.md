@@ -24,7 +24,7 @@ Unit 6: Artificial intelligence** |
 <aside>
 
 
-📢## **Latest Update**
+📢 **Latest Update**
 
 - **Workshop #2 will be hosted on Dec. 3**
 - **11.30 Workshop #3 Unit 6**
