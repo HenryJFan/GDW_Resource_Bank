@@ -2,9 +2,9 @@
 This is a resource bank for Group Discussion Workshop (GDW) for UNNC OCSa Group Discussion Exam (AY2526)
 
 <aside>
-💡
 
-**Note: You may use eduroam to access resources**  
+
+💡**Note: You may use eduroam to access resources**  
 
 **Venue: 1F- Project Room 03 (Library)**
 
@@ -22,9 +22,9 @@ Unit 6: Artificial intelligence** |
 </aside>
 
 <aside>
-📢
 
-## **Latest Update**
+
+📢## **Latest Update**
 
 - **Workshop #2 will be hosted on Dec. 3**
 - **11.30 Workshop #3 Unit 6**
